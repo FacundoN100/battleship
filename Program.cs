@@ -110,7 +110,7 @@ namespace MyGame
             switch (GameManager.Instance.CurrentState)
             {
                 case GameManager.GameState.Menu:
-                    string[] opciones = { "Jugar", "Opciones", "Créditos", "Salir" };
+                    string[] opciones = { "Play", "Options", "Credits", "Exit" };
                     for (int i = 0; i < opciones.Length; i++)
                     {
                         int x = 460;
@@ -243,8 +243,8 @@ namespace MyGame
             switch (GameManager.Instance.CurrentState)
             {
                 case GameManager.GameState.Menu:
-                    Engine.DrawText("BARCOS DE FUEGO", 380, 150, 255, 255, 255, menuFont);
-                    string[] opciones = { "Jugar", "Opciones", "Créditos", "Salir" };
+                    Engine.DrawText("Battle Ship", 380, 150, 255, 255, 255, menuFont);
+                    string[] opciones = { "Play", "Options", "Credits", "Exit" };
                     for (int i = 0; i < opciones.Length; i++)
                     {
                         int x = 460, y = 250 + i * 50, width = 200, height = 40;
@@ -271,7 +271,7 @@ namespace MyGame
                         f.Render(cameraX);
 
                     Engine.DrawRotatedScaled(timonImage, 512, 770, player1.Angle, 0.25f);
-                    Engine.DrawText("Puntos: " + GameManager.Instance.Score, 40, 30, 255, 255, 0, menuFont);
+                    Engine.DrawText("Points: " + GameManager.Instance.Score, 40, 30, 255, 255, 0, menuFont);
 
                     // DEBUG: rectángulo del jugador
                     CollisionHelper.DrawRotatedDebugRect(player1.X, player1.Y, 180f, 100f, player1.Heading, 255, 255, 0);
@@ -279,12 +279,12 @@ namespace MyGame
 
                 case GameManager.GameState.Victory:
                     Engine.Draw(winBackground, 0, 0);
-                    Engine.DrawText("¡Victoria!", 400, 300, 0, 255, 0, menuFont);
+                    Engine.DrawText("Victory!", 400, 300, 0, 255, 0, menuFont);
                     break;
 
                 case GameManager.GameState.Defeat:
                     Engine.Draw(defeatBackground, 0, 0);
-                    Engine.DrawText("¡Derrota!", 400, 300, 255, 0, 0, menuFont);
+                    Engine.DrawText("Defeat!", 400, 300, 255, 0, 0, menuFont);
                     break;
             }
 
