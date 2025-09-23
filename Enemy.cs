@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace MyGame
 {
@@ -29,7 +29,7 @@ namespace MyGame
         public override void Render(float cameraX)
         {
             Engine.DrawRotated(enemyImage, X - cameraX, Y, Angle);
-            CollisionHelper.DrawRotatedRect(X, Y, width, height, Angle, cameraX); // debug colisión
+           // CollisionHelper.DrawRotatedRect(X, Y, width, height, Angle, cameraX); // debug colisión
         }
 
         public bool CollidesWithPlayer(Player player)
@@ -66,3 +66,5 @@ namespace MyGame
         }
     }
 }
+
+
