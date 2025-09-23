@@ -1,0 +1,229 @@
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\asteroid.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fuenteJuegoNaves.ttf
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\inicio.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\bullet.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\enemy.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\littleidea.mp3
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\musica.wav
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\p865\Desktop\Proyecto Base\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\p864\Desktop\Clase 1\bin\Debug\assets\fondo.png
+C:\Users\p864\Desktop\Clase 1\bin\Debug\assets\player.png
+C:\Users\p864\Desktop\Clase 1\bin\Debug\MyGame.exe.config
+C:\Users\p864\Desktop\Clase 1\bin\Debug\MyGame.exe
+C:\Users\p864\Desktop\Clase 1\bin\Debug\MyGame.pdb
+C:\Users\p864\Desktop\Clase 1\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\p864\Desktop\Clase 1\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\p864\Desktop\Clase 1\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\p864\Desktop\Clase 1\obj\Debug\MyGame.exe
+C:\Users\p864\Desktop\Clase 1\obj\Debug\MyGame.pdb
+C:\Users\p864\Desktop\Clase 1\bin\Debug\assets\enemy.png
+C:\Users\p864\Downloads\Clase 2\Clase 2\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\p864\Downloads\Clase 2\Clase 2\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\p864\Downloads\Clase 2\Clase 2\obj\Debug\MyGame.exe
+C:\Users\p864\Downloads\Clase 2\Clase 2\obj\Debug\MyGame.pdb
+C:\Users\p864\Downloads\Clase 2\Clase 2\bin\Debug\assets\enemy.png
+C:\Users\p864\Downloads\Clase 2\Clase 2\bin\Debug\assets\fondo.png
+C:\Users\p864\Downloads\Clase 2\Clase 2\bin\Debug\assets\player.png
+C:\Users\p864\Downloads\Clase 2\Clase 2\bin\Debug\MyGame.exe.config
+C:\Users\p864\Downloads\Clase 2\Clase 2\bin\Debug\MyGame.exe
+C:\Users\p864\Downloads\Clase 2\Clase 2\bin\Debug\MyGame.pdb
+C:\Users\p864\Downloads\Clase 2\Clase 2\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\p864\Downloads\Clase 2\Clase 2\bin\Debug\assets\bullet.png
+C:\Users\Pancho\Desktop\Clase 3\bin\Debug\assets\bullet.png
+C:\Users\Pancho\Desktop\Clase 3\bin\Debug\assets\enemy.png
+C:\Users\Pancho\Desktop\Clase 3\bin\Debug\assets\fondo.png
+C:\Users\Pancho\Desktop\Clase 3\bin\Debug\assets\player.png
+C:\Users\Pancho\Desktop\Clase 3\bin\Debug\MyGame.exe.config
+C:\Users\Pancho\Desktop\Clase 3\bin\Debug\MyGame.exe
+C:\Users\Pancho\Desktop\Clase 3\bin\Debug\MyGame.pdb
+C:\Users\Pancho\Desktop\Clase 3\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Pancho\Desktop\Clase 3\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Pancho\Desktop\Clase 3\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Pancho\Desktop\Clase 3\obj\Debug\MyGame.exe
+C:\Users\Pancho\Desktop\Clase 3\obj\Debug\MyGame.pdb
+C:\Users\Pancho\Desktop\Clase 3\bin\Debug\assets\barcoChico.png
+C:\Users\Pancho\Desktop\Clase 3\bin\Debug\assets\barcoGrande.png
+C:\Users\AndyAzh TEC\Downloads\Clase 3\Clase 3\bin\Debug\assets\barcoChico.png
+C:\Users\AndyAzh TEC\Downloads\Clase 3\Clase 3\bin\Debug\assets\barcoGrande.png
+C:\Users\AndyAzh TEC\Downloads\Clase 3\Clase 3\bin\Debug\assets\bullet.png
+C:\Users\AndyAzh TEC\Downloads\Clase 3\Clase 3\bin\Debug\assets\enemy.png
+C:\Users\AndyAzh TEC\Downloads\Clase 3\Clase 3\bin\Debug\assets\fondo.png
+C:\Users\AndyAzh TEC\Downloads\Clase 3\Clase 3\bin\Debug\assets\player.png
+C:\Users\AndyAzh TEC\Downloads\Clase 3\Clase 3\bin\Debug\MyGame.exe.config
+C:\Users\AndyAzh TEC\Downloads\Clase 3\Clase 3\bin\Debug\MyGame.exe
+C:\Users\AndyAzh TEC\Downloads\Clase 3\Clase 3\bin\Debug\MyGame.pdb
+C:\Users\AndyAzh TEC\Downloads\Clase 3\Clase 3\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\AndyAzh TEC\Downloads\Clase 3\Clase 3\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\AndyAzh TEC\Downloads\Clase 3\Clase 3\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\AndyAzh TEC\Downloads\Clase 3\Clase 3\obj\Debug\MyGame.exe
+C:\Users\AndyAzh TEC\Downloads\Clase 3\Clase 3\obj\Debug\MyGame.pdb
+C:\Users\alu864\Downloads\Barquito\Clase 3\Clase 3\bin\Debug\assets\barcoChico.png
+C:\Users\alu864\Downloads\Barquito\Clase 3\Clase 3\bin\Debug\assets\barcoGrande.png
+C:\Users\alu864\Downloads\Barquito\Clase 3\Clase 3\bin\Debug\assets\bullet.png
+C:\Users\alu864\Downloads\Barquito\Clase 3\Clase 3\bin\Debug\assets\enemy.png
+C:\Users\alu864\Downloads\Barquito\Clase 3\Clase 3\bin\Debug\assets\fondo.png
+C:\Users\alu864\Downloads\Barquito\Clase 3\Clase 3\bin\Debug\assets\player.png
+C:\Users\alu864\Downloads\Barquito\Clase 3\Clase 3\bin\Debug\MyGame.exe.config
+C:\Users\alu864\Downloads\Barquito\Clase 3\Clase 3\bin\Debug\MyGame.exe
+C:\Users\alu864\Downloads\Barquito\Clase 3\Clase 3\bin\Debug\MyGame.pdb
+C:\Users\alu864\Downloads\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\alu864\Downloads\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\alu864\Downloads\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\alu864\Downloads\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.exe
+C:\Users\alu864\Downloads\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.pdb
+C:\pika\Barquito\Clase 3\Clase 3\bin\Debug\assets\barcoChico.png
+C:\pika\Barquito\Clase 3\Clase 3\bin\Debug\assets\barcoGrande.png
+C:\pika\Barquito\Clase 3\Clase 3\bin\Debug\assets\bullet.png
+C:\pika\Barquito\Clase 3\Clase 3\bin\Debug\assets\enemy.png
+C:\pika\Barquito\Clase 3\Clase 3\bin\Debug\assets\fondo.png
+C:\pika\Barquito\Clase 3\Clase 3\bin\Debug\assets\player.png
+C:\pika\Barquito\Clase 3\Clase 3\bin\Debug\MyGame.exe.config
+C:\pika\Barquito\Clase 3\Clase 3\bin\Debug\MyGame.exe
+C:\pika\Barquito\Clase 3\Clase 3\bin\Debug\MyGame.pdb
+C:\pika\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\pika\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\pika\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.csproj.Up2Date
+C:\pika\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.exe
+C:\pika\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.pdb
+C:\Barquito\Clase 3\Clase 3\bin\Debug\assets\barcoChico.png
+C:\Barquito\Clase 3\Clase 3\bin\Debug\assets\barcoGrande.png
+C:\Barquito\Clase 3\Clase 3\bin\Debug\assets\bullet.png
+C:\Barquito\Clase 3\Clase 3\bin\Debug\assets\enemy.png
+C:\Barquito\Clase 3\Clase 3\bin\Debug\assets\fondo.png
+C:\Barquito\Clase 3\Clase 3\bin\Debug\assets\player.png
+C:\Barquito\Clase 3\Clase 3\bin\Debug\MyGame.exe.config
+C:\Barquito\Clase 3\Clase 3\bin\Debug\MyGame.exe
+C:\Barquito\Clase 3\Clase 3\bin\Debug\MyGame.pdb
+C:\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.csproj.Up2Date
+C:\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.exe
+C:\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.pdb
+C:\Users\AndyAzh TEC\Downloads\Barquito (1)\Barquito\Clase 3\Clase 3\bin\Debug\assets\barcoChico.png
+C:\Users\AndyAzh TEC\Downloads\Barquito (1)\Barquito\Clase 3\Clase 3\bin\Debug\assets\barcoGrande.png
+C:\Users\AndyAzh TEC\Downloads\Barquito (1)\Barquito\Clase 3\Clase 3\bin\Debug\assets\bullet.png
+C:\Users\AndyAzh TEC\Downloads\Barquito (1)\Barquito\Clase 3\Clase 3\bin\Debug\assets\enemy.png
+C:\Users\AndyAzh TEC\Downloads\Barquito (1)\Barquito\Clase 3\Clase 3\bin\Debug\assets\fondo.png
+C:\Users\AndyAzh TEC\Downloads\Barquito (1)\Barquito\Clase 3\Clase 3\bin\Debug\assets\player.png
+C:\Users\AndyAzh TEC\Downloads\Barquito (1)\Barquito\Clase 3\Clase 3\bin\Debug\MyGame.exe.config
+C:\Users\AndyAzh TEC\Downloads\Barquito (1)\Barquito\Clase 3\Clase 3\bin\Debug\MyGame.exe
+C:\Users\AndyAzh TEC\Downloads\Barquito (1)\Barquito\Clase 3\Clase 3\bin\Debug\MyGame.pdb
+C:\Users\AndyAzh TEC\Downloads\Barquito (1)\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\AndyAzh TEC\Downloads\Barquito (1)\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.exe.config
+C:\Users\AndyAzh TEC\Downloads\Barquito (1)\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\AndyAzh TEC\Downloads\Barquito (1)\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\AndyAzh TEC\Downloads\Barquito (1)\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.exe
+C:\Users\AndyAzh TEC\Downloads\Barquito (1)\Barquito\Clase 3\Clase 3\obj\Debug\MyGame.pdb
+C:\Users\tomas\Downloads\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\tomas\Downloads\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.exe.config
+C:\Users\tomas\Downloads\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Downloads\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.exe
+C:\Users\tomas\Downloads\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.pdb
+C:\Users\tomas\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\barcoChico.png
+C:\Users\tomas\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\barcoGrande.png
+C:\Users\tomas\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\bullet.png
+C:\Users\tomas\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\enemy.png
+C:\Users\tomas\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\fondo.png
+C:\Users\tomas\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\player.png
+C:\Users\tomas\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\MyGame.exe.config
+C:\Users\tomas\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\MyGame.exe
+C:\Users\tomas\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\MyGame.pdb
+C:\Users\tomas\Downloads\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\tomas\OneDrive\Escritorio\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\barcoChico.png
+C:\Users\tomas\OneDrive\Escritorio\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\barcoGrande.png
+C:\Users\tomas\OneDrive\Escritorio\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\bullet.png
+C:\Users\tomas\OneDrive\Escritorio\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\enemy.png
+C:\Users\tomas\OneDrive\Escritorio\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\fondo.png
+C:\Users\tomas\OneDrive\Escritorio\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\player.png
+C:\Users\tomas\OneDrive\Escritorio\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\trap.png
+C:\Users\tomas\OneDrive\Escritorio\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\MyGame.exe.config
+C:\Users\tomas\OneDrive\Escritorio\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\MyGame.exe
+C:\Users\tomas\OneDrive\Escritorio\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\MyGame.pdb
+C:\Users\tomas\OneDrive\Escritorio\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Escritorio\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Escritorio\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\tomas\OneDrive\Escritorio\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.exe
+C:\Users\tomas\OneDrive\Escritorio\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.pdb
+C:\Users\tomas\OneDrive\Escritorio\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.exe.config
+C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\barcoChico.png
+C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\barcoGrande.png
+C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\bullet.png
+C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\enemy.png
+C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\fondo.png
+C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\player.png
+C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\assets\trap.png
+C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\MyGame.exe.config
+C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\MyGame.exe
+C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\bin\Debug\MyGame.pdb
+C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.exe
+C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.pdb
