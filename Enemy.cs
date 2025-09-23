@@ -9,13 +9,18 @@ namespace MyGame
         public bool IsDestroyed { get; private set; } = false;
         public bool TriggerExplosion { get; private set; } = false;
 
-        private float width = 100f;
-        private float height = 60f;
+        private float width = 283f;
+        private float height = 99f;
         private float speed = 1.5f;
+
+       
+        private float colliderOffsetForward = -141f;  
+      
+        private float colliderOffsetSide = 0f;
 
         public Enemy(float x, float y) : base(x, y)
         {
-            Angle = 180f; // apunta hacia la izquierda
+            Angle = 180f; 
         }
 
         public override void Update()
@@ -29,7 +34,12 @@ namespace MyGame
         public override void Render(float cameraX)
         {
             Engine.DrawRotated(enemyImage, X - cameraX, Y, Angle);
-           // CollisionHelper.DrawRotatedRect(X, Y, width, height, Angle, cameraX); // debug colisión
+
+            
+            CollisionHelper.DrawRotatedRect(
+                X, Y, width, height, Angle, cameraX,
+                colliderOffsetForward, colliderOffsetSide
+            );
         }
 
         public bool CollidesWithPlayer(Player player)
@@ -38,7 +48,8 @@ namespace MyGame
                 player.X, player.Y,
                 X, Y,
                 width, height,
-                Angle
+                Angle,
+                colliderOffsetForward, colliderOffsetSide
             );
         }
 
@@ -48,7 +59,8 @@ namespace MyGame
                 bullet.X, bullet.Y,
                 X, Y,
                 width, height,
-                Angle
+                Angle,
+                colliderOffsetForward, colliderOffsetSide
             );
 
             if (impact)
@@ -57,13 +69,10 @@ namespace MyGame
                 TriggerExplosion = true;
             }
 
-            return false;
+            return impact; 
         }
 
-        public int OtorgarPuntos()
-        {
-            return 100;
-        }
+        public int OtorgarPuntos() => 100;
     }
 }
 
