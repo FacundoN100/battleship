@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace MyGame
 {
@@ -35,7 +35,7 @@ namespace MyGame
             if (!IsActive) return;
 
             float rad = angulo * (float)Math.PI / 180f;
-            Transform.Pos.X += (float)Math.Cos(rad) * velocidad;
+            Transform.Pos.X -= (float)Math.Cos(rad) * velocidad;
             Transform.Pos.Y += (float)Math.Sin(rad) * velocidad;
 
             distanciaRecorrida += velocidad;
@@ -82,4 +82,5 @@ namespace MyGame
         }
     }
 }
+
 
