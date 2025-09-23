@@ -55,7 +55,7 @@ namespace MyGame
             if (!IsActive) return;
 
             Engine.DrawRotatedScaled(bulletImage, X - camX, Y, angulo, escala);
-            DibujarDebug(camX);
+            //DibujarDebug(camX);
         }
 
         public bool IsOffScreen() => distanciaRecorrida >= distanciaMax;
@@ -82,3 +82,4 @@ namespace MyGame
         }
     }
 }
+
