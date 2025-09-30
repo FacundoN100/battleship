@@ -227,3 +227,18 @@ C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.csp
 C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.csproj.Up2Date
 C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.exe
 C:\Users\alu865\Downloads\Barcos de Fuegos\Barcos de Fuegos\obj\Debug\MyGame.pdb
+T:\battleship\bin\Debug\assets\barcoChico.png
+T:\battleship\bin\Debug\assets\barcoGrande.png
+T:\battleship\bin\Debug\assets\bullet.png
+T:\battleship\bin\Debug\assets\enemy.png
+T:\battleship\bin\Debug\assets\fondo.png
+T:\battleship\bin\Debug\assets\player.png
+T:\battleship\bin\Debug\assets\trap.png
+T:\battleship\bin\Debug\MyGame.exe.config
+T:\battleship\bin\Debug\MyGame.exe
+T:\battleship\bin\Debug\MyGame.pdb
+T:\battleship\obj\Debug\MyGame.csproj.AssemblyReference.cache
+T:\battleship\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+T:\battleship\obj\Debug\MyGame.csproj.Up2Date
+T:\battleship\obj\Debug\MyGame.exe
+T:\battleship\obj\Debug\MyGame.pdb
